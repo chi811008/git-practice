@@ -1,3 +1,4 @@
 hello, Seraphine
 Hello, world
 Hello, python
+What an amazing day
