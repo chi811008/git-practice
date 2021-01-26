@@ -1,5 +1,6 @@
 hello, Seraphine
 Hello, world
+<<<<<<< HEAD
 Hello, python
 What an amazing day
 Have Fun
@@ -11,3 +12,6 @@ Have a nice day
 
 
 How to use rest this command??
+=======
+Hello, python
+>>>>>>> bird
